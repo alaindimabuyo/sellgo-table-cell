@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sellgo-table-cell/static/css/main.66fdebf8.chunk.css",
+    "main.js": "/sellgo-table-cell/static/js/main.06d7cf81.chunk.js",
+    "main.js.map": "/sellgo-table-cell/static/js/main.06d7cf81.chunk.js.map",
+    "runtime-main.js": "/sellgo-table-cell/static/js/runtime-main.26015171.js",
+    "runtime-main.js.map": "/sellgo-table-cell/static/js/runtime-main.26015171.js.map",
+    "static/js/2.e4374981.chunk.js": "/sellgo-table-cell/static/js/2.e4374981.chunk.js",
+    "static/js/2.e4374981.chunk.js.map": "/sellgo-table-cell/static/js/2.e4374981.chunk.js.map",
+    "index.html": "/sellgo-table-cell/index.html",
+    "precache-manifest.8fb418a0163d9a3003a47965e2bfa4c7.js": "/sellgo-table-cell/precache-manifest.8fb418a0163d9a3003a47965e2bfa4c7.js",
+    "service-worker.js": "/sellgo-table-cell/service-worker.js",
+    "static/css/main.66fdebf8.chunk.css.map": "/sellgo-table-cell/static/css/main.66fdebf8.chunk.css.map",
+    "static/js/2.e4374981.chunk.js.LICENSE.txt": "/sellgo-table-cell/static/js/2.e4374981.chunk.js.LICENSE.txt",
+    "static/media/img02.jpeg": "/sellgo-table-cell/static/media/img02.c11ac77d.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26015171.js",
+    "static/js/2.e4374981.chunk.js",
+    "static/css/main.66fdebf8.chunk.css",
+    "static/js/main.06d7cf81.chunk.js"
+  ]
+}

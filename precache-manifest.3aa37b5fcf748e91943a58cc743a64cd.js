@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d79d1eeca99a8a2fcd08dea04d877c6b",
+    "revision": "141e65cfd27375e484a0725da0b0dd1f",
     "url": "/sellgo-table-cell/index.html"
   },
   {
-    "revision": "7d637436a17d9ff91eee",
-    "url": "/sellgo-table-cell/static/css/main.66fdebf8.chunk.css"
+    "revision": "d5c83f2bc556a680016f",
+    "url": "/sellgo-table-cell/static/css/main.52948ae6.chunk.css"
   },
   {
     "revision": "dbc5ab9ed7253fb7d908",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sellgo-table-cell/static/js/2.e4374981.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7d637436a17d9ff91eee",
+    "revision": "d5c83f2bc556a680016f",
     "url": "/sellgo-table-cell/static/js/main.06d7cf81.chunk.js"
   },
   {

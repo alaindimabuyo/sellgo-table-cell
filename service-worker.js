@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sellgo-table-cell/precache-manifest.3aa37b5fcf748e91943a58cc743a64cd.js"
+  "/sellgo-table-cell/precache-manifest.c811eeecaa60a6eab7f606f8d25ba0ca.js"
 );
 
 self.addEventListener('message', (event) => {
